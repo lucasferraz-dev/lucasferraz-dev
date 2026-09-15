@@ -74,24 +74,6 @@ Aplicação Full Stack voltada ao gerenciamento de jogos.
 * Backend com Node.js e Express
 * Interface desenvolvida em React
 
-🔗 **[Ver projeto](SEU_LINK_AQUI)**
-
----
-
-### 📚 Biblioteca de Jogos
-
-Projeto Full Stack desenvolvido para praticar integração entre frontend, backend e banco de dados.
-
-**Tecnologias:** React • Node.js • Express • MySQL
-
-**Conceitos praticados:**
-
-* CRUD
-* APIs REST
-* Autenticação
-* Banco de dados
-* Integração frontend/backend
-
 🔗 **[Ver projeto](https://github.com/lucasferraz-dev/save_point)**
 
 ---
