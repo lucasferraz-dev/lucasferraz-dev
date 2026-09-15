@@ -92,7 +92,7 @@ Projeto Full Stack desenvolvido para praticar integração entre frontend, backe
 * Banco de dados
 * Integração frontend/backend
 
-🔗 **[Ver projeto](SEU_LINK_AQUI)**
+🔗 **[Ver projeto](https://github.com/lucasferraz-dev/save_point)**
 
 ---
 
@@ -102,7 +102,7 @@ Meu portfólio pessoal desenvolvido para apresentar meus projetos, experiências
 
 **Tecnologias:** React • Vite • Tailwind CSS • Framer Motion
 
-🔗 **[Visitar portfólio](SEU_LINK_AQUI)**
+🔗 **[Visitar portfólio](https://ferrazdeveloper.com/)**
 
 ---
 
@@ -173,9 +173,9 @@ Meu objetivo é transformar conhecimento teórico em **soluções reais, funcion
 
 ## 📫 Onde me encontrar
 
-💼 **LinkedIn:** [SEU_LINK_AQUI]
+💼 **LinkedIn:** [www.linkedin.com/in/lucas-ferraz-bcc]
 
-🌐 **Portfólio:** [SEU_LINK_AQUI]
+🌐 **Portfólio:** [https://ferrazdeveloper.com/]
 
 📧 **E-mail:** SEU_EMAIL_AQUI
 
