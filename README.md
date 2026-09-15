@@ -159,11 +159,11 @@ Meu objetivo é transformar conhecimento teórico em **soluções reais, funcion
 
 ## 📫 Onde me encontrar
 
-💼 **LinkedIn:** [www.linkedin.com/in/lucas-ferraz-bcc]
+💼 **LinkedIn:** www.linkedin.com/in/lucas-ferraz-bcc
 
-🌐 **Portfólio:** [https://ferrazdeveloper.com/]
+🌐 **Portfólio:** https://ferrazdeveloper.com/
 
-📧 **E-mail:** SEU_EMAIL_AQUI
+📧 **E-mail:** lucasferrazsantos@hotmail.com
 
 ---
 
