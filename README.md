@@ -92,15 +92,19 @@ Meu portfólio pessoal desenvolvido para apresentar meus projetos, experiências
 
 ```text
 Python
+
 ████████████████░░░░
 
 C++
+
 ████████████░░░░░░░░
 
 Inteligência Artificial
+
 ██████████░░░░░░░░░░░
 
 Machine Learning
+
 ████████░░░░░░░░░░░░░
 
 ```
